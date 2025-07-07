@@ -1,0 +1,15 @@
+## nextjs react app gitignore
+
+# dependencies
+/node_modules
+# production
+/.next
+# testing
+/coverage
+# misc
+.DS_Store
+# dotenv environment variables file
+.env
+.env.local
+.env.development
+.env.production
